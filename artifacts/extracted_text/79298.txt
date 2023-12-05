@@ -1,0 +1,75 @@
+Jones, Nathan DOB:08-01-1974
+agile
+OCCUPATIONAL MEDICINE
+445 E Anaheim Street Suite L Wilmington, CA 90744 - 4600 PH: 562 267-3798 FAX: 562-222-3883
+PROGRESS NOTE
+Patient First Name:
+Patient Last Name:
+Date of Birth:
+Sex:
+Nathan
+Jones
+08-01-1974
+Male
+Attending Provider:
+Referring Provider:
+Visit Date:
+Chart No .:
+Shayla Matthews, FNP-C
+09-19-2023
+SCL58569
+Insurance:
+Employer:
+Claim Number:
+Date of Injury:
+Berkshire Hathaway
+R & J Sheet Metal Inc.
+22055921
+09-01-2023
+Appointment Location:
+Appointment Location Address:
+Agile Occupational Medicine, Wilmington
+445 E Anaheim Street, Suite L, Wilmington CA 90744 - 4600
+History of Present Illness
+Patient is a 49 year old male.
+Patient evaluated today follow up visit for left bicep pain after lifting a panel on 9/1. Patient reports no change in condition. Patient reports pain is a constant 3 out 10 however with movement pain increases ranging from 7 -8 out 10 pain. Patient reports using his arm sling with standing for long periods of time to help for support but is not resolving his pain. Patient reports doing at home exercises but having difficulty lifting.
+Past Medical History No Known Past Medical History
+Surgical History Left Knee sx . Collar bone: 2016 by ? at ?.
+Allergy No Known Drug Allergies.
+Current Medication Naproxen
+Social History
+Work History: He is employed - full time. He has been in the current profession for 28 years. Prior occupation: Warehouse worker.
+Use of Drugs/Alcohol/Tobacco: Drinks alcohol rarely. Reports drinking Beer. Smoking Status (MU) former smoker. Reports consuming caffeine/caffeinated drinks 1-2 cup a day. He has never used any illicit drugs. He denies using street drugs with a needle.
+Jones, Nathan DOB:08-01-1974
+Vitals
+Pain scale was 3 out of 10.
+Weight: 303.00 lbs.
+Height: 73.00 inches.
+Temperature: 97.30 F.
+Pulse: 72 per min.
+Pulse rhythm regular: Yes
+Respiration: 16 breaths per min.
+BMI: 40. BP Systolic: 158 mm Hg. BP Diastolic: 93 mmHg. Pulse Oximetry: 98
+Physical Examination
+ELBOW EXAM A. LATERALITY: Left B. VISUAL INSPECTION: No gross deformity, swelling present, minimal ecchymosis, or any open wounds. C. PALPATION: Mild tenderness to palpation along bicep muscle
+D. ACTIVE RANGE OF MOTION: FLEXION 0 to 140 degrees EXTENSION 0 degrees SUPINATION 0 to 80 degrees PRONATION 0 to 80 degrees E. NEUROVASCULAR: Brisk capillary refill less than 2 seconds. 5/5 motor strength and light touch sensation intact throughout.
+F. SPECIALTY TESTS: Negative Tinel's sign at the elbow. No resisted extension at the wrist for lateral epicondylitis. No resisted flexion at the wrist for medial epicondylitis.
+G. CONTRALATERAL SIDE: Exam is normal.
+Orders:
+Assessment and Plan ICD: Strain of left biceps, initial encounter (S46.212A) Assessment: Patient evaluated today for follow up visit for left bicep pain after lifting a panel on 9/1. Patient reports no change in condition with continued mild tenderness along left bicep muscle
+Plan: Will order physical therapy to strengthen muscles. Request MRI to rule out tendon tear. Continue Naproxen as needed for inflammation. Ice twice a day as needed for pain. Will follow up in 1 week to re evaluate injury progression.
+ICD: Strain of left biceps muscle, subsequent encounter (S46.212D)
+CPT Codes:
+Jones, Nathan DOB:08-01-1974
+Office O/p Est Low 20-29 Min (99213)
+E and M Time Factor/ Medical Decision Making Notes:
+Number and Complexity of Problems Addressed 1 acute, uncomplicated illness or injury Risk of Complications and/or Morbidity or Mortality of Patient Management Low risk of morbidity from additional diagnostic testing or treatment
+Follow up: -
+Matos
+Shayla Matthews FNP-C
+This has been electronically signed by Shayla Matthews FNP-C for visit dated 09-19-2023. Clinic Address: 445 E Anaheim Street, Suite L, Wilmington CA 90744 - 4600
+lil QNom
+Minh Nguyen DO, MPH, FACOEM Supervising Provider
+This has been electronically signed by Minh Nguyen DO, MPH, FACOEM for visit dated 09-19-2023.
+Minh Nguyen DO, MPH, FACOEM Rendering Provider
+This has been electronically signed by Minh Nguyen DO, MPH, FACOEM for visit dated 09-19-2023.

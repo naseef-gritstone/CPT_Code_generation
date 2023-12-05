@@ -1,0 +1,66 @@
+Smith, Laura DOB:03-05-1968
+agile
+OCCUPATIONAL MEDICINE
+1710 Churn Creek Rd. Redding, CA 96002 - 0236 PH: 530 646-4242 FAX: 530 255-4934
+TELEMEDICINE FOLLOW UP VISIT PROGRESS NOTE
+Patient First Name:
+Patient Last Name:
+Date of Birth:
+Sex:
+Laura
+Smith
+03-05-1968
+Female
+Attending Provider:
+Referring Provider:
+Visit Date:
+Chart No .:
+Frederic Butler, MD, MPH
+09-18-2023
+SCL04413
+Insurance:
+Employer:
+Claim Number:
+Date of Injury:
+School Insurance Authority
+Enterprise Elementary School Dist.
+22-1289
+11-03-2022
+Appointment Location:
+Appointment Location Address:
+Agile Occupational Medicine, Redding
+1710 Churn Creek Rd., Redding CA 96002 - 0236
+Telehealth Statement: I advised the patient that this visit will be performed using a HIPAA compliant telehealth tool, including a live video connection between the patient's location and my location. I answered all the patient's questions, and the patient gave his/her consent for telehealth visit. Subsequently, I performed consultation using telehealth and live video conference. I performed a virtual musculoskeletal or neurological examination based on specific set of guidelines to enhance the information obtained when evaluating the musculoskeletal and neurological systems. Most of these tests are based on validated physical exam maneuvers under my observation. REFERENCE: Mayo Clinic: The Telemedicine Musculoskeletal Examination https:\\www.mayoclinicproceedings.org/article/S0025-6196(20)30542-5/fulltext. Neurology: Primer on the In-home Teleneurologic Examination. Clinical Practice April 2021 vol. 11 no. 2 https:\\cp.neurology.org/content/11/2/e157.full.
+History of Present Illness Patient is a 55 year old female.
+Patient is status post right hand surgery by Dr slater on 8/21/23. She sustained injury to hand when it was caught in a large commercial grade mixer bowl at work. Has follow up appt with Dr slater in a week. Currently not working. Concerned about dry eschar with peeling at wound site. Has applied lotion for dry/cracked skin which seems to help. There is no reported fevers, chills, or sweats.
+Surgical History Left breast cancer removal .
+Allergy No Known Drug Allergies.
+Current Medication
+Voltaren 1 % topical gel Apply 2gms to the R elbow, forearm and wrist up to QID prn pain Escitalopram 10 mg onceday
+Smith, Laura DOB:03-05-1968
+Eszopiclone 3mg once a day Lidocaine5% pad once a day Lisinopril 20 mg once a day Omeprazole Dr 40 mg once a day Ibuprofen 600 mg daily for hip and lower back pain
+Social History
+Work History: She is employed - full time. She has been in the current profession for 5 years. Prior occupation: Safeway.
+Use of Drugs/Alcohol/Tobacco: Drinks alcohol once or twice a week. Reports drinking Wight claw. Smoking Status (MU) never smoker. She denies her alcohol consumption as being problem to self or family or others. Reports consuming caffeine/caffeinated drinks 1-2 cup a day. She has never used any illicit drugs. She denies using street drugs with a needle.
+Physical Examination
+Constitutional: Well developed, well nourished, and well kempt. In no apparent distress. Head: Normocephalic and atraumatic
+Eyes: Sclera is clear. Extraocular eye movement is grossly intact. Ears: Ears are symmetrical. No redness or swelling of external ears is appreciated. Nose: No excessive nasal discharge is appreciated.
+Neck: Supple with full ROM. Resp: Breathing is non-labored. . Abdomen: Non-distended.
+Neurological: Alert and oriented. CN II-XII grossly intact. Motor and sensation grossly normal and non-focal. Musculoskeletal: Mobility is age appropriate. EROM grossly intact with 5/5 motor gross motor strength in four extremities.
+Skin: Appropriate color for ethnicity. Warm and dry. Psych: Calm, cooperative, answering questions appropriately, and pleasant.
+Assessment and Plan ICD: Fracture of phalanx of right ring finger (S62.604A) Assessment: Status post R ring trigger finger surgery, Had steroid injection and PT did not help lateral epicondylitis; rest of injuries are slowly improving Plan: Surgery on R ring trigger finger scheduled fcompleted by Dr Slater PT post-op Currently TTD during post op period F/u in about 6 weeks
+ICD: Laceration of right hand (S61.411A)
+ICD: Laceration of ring finger without damage to nail (S61.218A) ICD: Contusion of right hand including fingers (S60.221A) ICD: Sprain of wrist, right (S63.501A) ICD: Lateral epicondylitis of right elbow (M77.11) ICD: Trigger finger, right ring finger (M65.341)
+ICD: Carpal tunnel syndrome of right wrist (G56.01)
+ICD: Fracture of unspecified phalanx of right ring finger, subsequent encounter for fracture with routine healing (S62.604D)
+ICD: Laceration without foreign body of right hand, subsequent encounter (S61.411D)
+Smith, Laura DOB:03-05-1968
+ICD: Laceration without foreign body of right ring finger without damage to nail, subsequent encounter (S61.214D)
+ICD: Contusion of right hand, subsequent encounter (S60.221D) ICD: Unspecified sprain of right wrist, subsequent encounter (S63.501D)
+CPT Codes: Office O/p Est Mod 30-39 Min (99214) WC002 (WC002)
+Follow up: -
+Frederic Butler MD, MPH Fol Burken
+This has been electronically signed by Frederic Butler MD, MPH for visit dated 09-18-2023. Clinic Address: 1710 Churn Creek Rd., Redding CA 96002 - 0236
+Fat Burken
+Frederic Butler MD, MPH Rendering Provider
+This has been electronically signed by Frederic Butler MD, MPH for visit dated 09-18-2023.

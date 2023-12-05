@@ -1,0 +1,67 @@
+Morales, Josephine DOB:12-14-1985
+agile
+OCCUPATIONAL MEDICINE
+15401 S Main St. Gardena, CA 90248 - 2214 PH: 424 292-3260 FAX: 424 292-3266
+TELEMEDICINE FOLLOW UP VISIT PROGRESS NOTE
+Patient First Name:
+Patient Last Name:
+Date of Birth:
+Sex:
+Josephine
+Morales
+12-14-1985
+Female
+Attending Provider:
+Referring Provider:
+Visit Date:
+Chart No .:
+Minh Nguyen, DO, MPH, FACOEM
+09-19-2023
+SCL54672
+Insurance:
+Employer:
+Claim Number:
+Date of Injury:
+Broadspire
+Mission Linen Supply-West Market
+190147325-001
+08-21-2023
+Appointment Location:
+Appointment Location Address:
+Agile Occupational Medicine, Gardena
+15401 S Main St., Gardena CA 90248 - 2214
+Telehealth Statement: I advised the patient that this visit will be performed using a HIPAA compliant telehealth tool, including a live video connection between the patient's location and my location. I answered all the patient's questions, and the patient gave his/her consent for telehealth visit. Subsequently, I performed consultation using telehealth and live video conference. I performed a virtual musculoskeletal or neurological examination based on specific set of guidelines to enhance the information obtained when evaluating the musculoskeletal and neurological systems. Most of these tests are based on validated physical exam maneuvers under my observation. REFERENCE: Mayo Clinic: The Telemedicine Musculoskeletal Examination https:\\www.mayoclinicproceedings.org/article/S0025-6196(20)30542-5/fulltext. Neurology: Primer on the In-home Teleneurologic Examination. Clinical Practice April 2021 vol. 11 no. 2 https:\\cp.neurology.org/content/11/2/e157.full.
+History of Present Illness Patient is a 37 year old female.
+Patient following up on right 4th and 5th fracture from 8/21/23. Patient less pain in fingers. Still wearing splints. Finished the antibiotics. Taking Tylenol for pain as needed. Patient doing modified work in laundry. No new symptoms.
+Past Medical History No Known Past Medical History
+Surgical History B/L Knees . 3 C- sections .
+Allergy No Known Drug Allergies.
+Morales, Josephine DOB:12-14-1985
+Current Medication Duloxetine Hydroxyzine Olanzapine Seroquel Tylenol 500mg
+Social History
+Use of Drugs/Alcohol/Tobacco: Never drinks any alcohol. Smoking Status (MU) current every day smoker. Does not drink caffeinated beverages. She has never used any illicit drugs. She denies using street drugs with a needle.
+Vitals Pain scale was 1 out of 10. Weight: 279.40 lbs. Height: 65.00 inches. Temperature: 96.10 F. Pulse: 76 per min. Pulse rhythm regular: Yes
+Respiration: 14 breaths per min. BMI: 46. BP Systolic: 138 mm Hg. BP Diastolic: 80 mmHg. Pulse Oximetry: 98
+Physical Examination
+Physical exam right middle finger the emulsion on the lateral aspect is healing nicely no evidence of infection and there's good wound integrity. Um ring finger is nearly healed both fingers are still fractured. The plan would be to reevaluate this patient in two more weeks with a re X ray.
+Radiology Ordered Order No: RAD0004289 X-ray: Hand, Right - 3 views
+Dated: 09-19-2023 Rad: InHouse Radiology
+Radiology Reviewed:
+Class
+Test Name
+Test Result
+X-ray
+Hand, Right - 3 views
+Assessment and Plan
+ICD: Multiple closed fractures of finger with routine healing (S62.609D) Assessment: Patient with RRF fracture non-displaced at base of distal phalanx and healing without complications. Full motion but still has slight tenderness.
+Morales, Josephine DOB:12-14-1985
+Plan: Reviewed x-rays of right hand today and read as normal from radiologist. Patient has full motion. Will decrease restrictions and follow up in 2 weeks with goal of full duty trial.
+ICD: Fracture of unspecified phalanx of right middle finger, subsequent encounter for fracture with routine healing (S62.602D)
+ICD: Fracture of unspecified phalanx of right ring finger, subsequent encounter for fracture with routine healing (S62.604D)
+CPT Codes: Office O/p Est Low 20-29 Min (99213) X-ray Exam Of Hand (73130)
+Follow up: -
+Minh Nguyen DO, MPH, FACOEM Lil Q om
+This has been electronically signed by Minh Nguyen DO, MPH, FACOEM for visit dated 09-19-2023. Clinic Address: 15401 S Main St., Gardena CA 90248 - 2214
+Lil QNom
+Minh Nguyen DO, MPH, FACOEM Rendering Provider
+This has been electronically signed by Minh Nguyen DO, MPH, FACOEM for visit dated 09-19-2023.

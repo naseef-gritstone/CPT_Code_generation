@@ -1,0 +1,23 @@
+History of Present Illness:
+ patient is a 61 year old male.
+patient returns for follow up visit for right calf pain after pushing boxes. patient reports discomfort however able to manage full duty. patient states he is at 95% baseline.
+
+AssessmentAndPlan:
+ patient evaluated today for follow up visit after injury to right calf after pushing boxes. patient reports pain has improved. plan: patient is asymptomatic with no functional deficits, met all treatment goals, requires no further skilled attention and is medically released from care. the patient is permanent and stationary with no need for future medical care. the patient has been released to full duty without any permanent restrictions. no pr-4 report required.
+
+Vitals:
+ pain scale was 1 out of 10. weight: 116.00 lbs.
+madrigal, joseph dob:05-14-1962
+height: 67.00 inches. temperature: 96.00 f. pulse: 53 per min.
+pulse rhythm regular: yes respiration: 16 breaths per min.
+bmi: 18. bp systolic: 127 mm hg. bp diastolic: 77 mmhg. pulse oximetry: 98
+
+Orders:
+
+
+Radiology Ordered:
+None
+E&M_Time_Factor:
+
+number and complexity of problems addressed 1 acute, uncomplicated illness or injury risk of complications and/or morbidity or mortality of patient management low risk of morbidity from additional diagnostic testing or treatment
+

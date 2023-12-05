@@ -1,0 +1,21 @@
+History OF Present Illness:
+ patient is a 37 year old female.
+patient following up on right 4th and 5th fracture from 8/21/23. patient less pain in fingers. still wearing splints. finished the antibiotics. taking tylenol for pain as needed. patient doing modified work in laundry. no new symptoms.
+
+AssessmentAndPlan:
+ patient with rrf fracture non-displaced at base of distal phalanx and healing without complications. full motion but still has slight tenderness.
+morales, josephine dob:12-14-1985
+plan: reviewed x-rays of right hand today and read as normal from radiologist. patient has full motion. will decrease restrictions and follow up in 2 weeks with goal of full duty trial.
+
+Vitals:
+ pain scale was 1 out of 10. weight: 279.40 lbs. height: 65.00 inches. temperature: 96.10 f. pulse: 76 per min. pulse rhythm regular: yes
+respiration: 14 breaths per min. bmi: 46. bp systolic: 138 mm hg. bp diastolic: 80 mmhg. pulse oximetry: 98
+
+Orders:
+None
+Radiology Ordered:
+ order no: rad0004289 x-ray: hand, right - 3 views
+dated: 09-19-2023 rad: inhouse radiology
+
+E&M_Time_Factor:
+None

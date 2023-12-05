@@ -1,0 +1,29 @@
+History of Present Illness:
+
+patient is a 49 year old male.
+patient evaluated today follow up visit for left bicep pain after lifting a panel on 9/1. patient reports no change in condition. patient reports pain is a constant 3 out 10 however with movement pain increases ranging from 7 -8 out 10 pain. patient reports using his arm sling with standing for long periods of time to help for support but is not resolving his pain. patient reports doing at home exercises but having difficulty lifting.
+
+AssessmentAndPlan:
+ patient evaluated today for follow up visit for left bicep pain after lifting a panel on 9/1. patient reports no change in condition with continued mild tenderness along left bicep muscle
+plan: will order physical therapy to strengthen muscles. request mri to rule out tendon tear. continue naproxen as needed for inflammation. ice twice a day as needed for pain. will follow up in 1 week to re evaluate injury progression.
+
+Vitals:
+
+pain scale was 3 out of 10.
+weight: 303.00 lbs.
+height: 73.00 inches.
+temperature: 97.30 f.
+pulse: 72 per min.
+pulse rhythm regular: yes
+respiration: 16 breaths per min.
+bmi: 40. bp systolic: 158 mm hg. bp diastolic: 93 mmhg. pulse oximetry: 98
+
+Orders:
+
+
+Radiology Ordered:
+None
+E&M_Time_Factor:
+
+number and complexity of problems addressed 1 acute, uncomplicated illness or injury risk of complications and/or morbidity or mortality of patient management low risk of morbidity from additional diagnostic testing or treatment
+

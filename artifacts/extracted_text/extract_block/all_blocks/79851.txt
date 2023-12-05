@@ -1,0 +1,14 @@
+History of Present Illness:
+patient is a 39 year old male.
+patient following up for a non-displaced fracture of the middle phalanx of lif. no pain at this time. fracture since 7/27/23 (7 weeks since injury). patient doing modified work. patient works as a probation officer at a school supervising juveniles. not taking any medications for the pain. patient using finger splint but has been using his left hand.
+AssessmentAndPlan:
+patient with lif fracture and well healed at 7 weeks with from and strength. plan: full duty trial and expect discharge at next visit if no new problems. discontinue splint.
+Vitals:
+None
+Orders:
+None
+Radiology Ordered:
+order no: rad0004321 x-ray: hand, left - 3 views
+dated: 09-19-2023 rad: inhouse radiology
+E&M_Time_Factor:
+None

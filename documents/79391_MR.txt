@@ -1,0 +1,21 @@
+History OF Present Illness:
+ patient is a 51 year old male.
+
+AssessmentAndPlan:
+ patient is a 51 year old male.
+
+Vitals:
+ pain scale was 0 out of 10. weight: 200.00 lbs. height: 68.00 inches. temperature: 98.50 f. pulse: 87 per min. pulse rhythm regular: yes
+bmi: 30.
+bp systolic: 124 mm hg. bp diastolic: 94 mmhg.
+height (in): 68. weight: 200. blood pressure - systolic: 124.
+blood pressure - diastolic: 94.
+heart rate: 87. temp: 98.5.
+
+Orders:
+ *ekg tests: ekg done: yes.
+
+Radiology Ordered:
+None
+E&M_Time_Factor:
+None

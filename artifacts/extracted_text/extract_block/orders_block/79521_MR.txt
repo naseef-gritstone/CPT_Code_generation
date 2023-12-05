@@ -1,0 +1,12 @@
+Orders:
+
+wound dressing patient is here for dressing of his wound which is in his left pinky. it was dressed with a sterile dressing. complications - no .
+*tetanus vaccine tests:
+completed: yes.
+suture removal / wound
+suture removal/wound: the procedure performed was suture removal. a total of 2 sutures were removed by alyssa poland pac. sterile dressings were applied.
+
+Radiology Ordered:
+None
+E&M_Time_Factor:
+None

@@ -1,0 +1,14 @@
+History of Present Illness:
+patient is a 21 year old male. patient following up for wound check on left hand laceration s/p 2 sutures placed. no complaints. no fever. no pain. doing regular work.
+AssessmentAndPlan:
+patient with 1 cm laceration of left palm and 2 sutures placed without problems. wound healing and no evidence of infection. plan: sutures removal at next visit in 7 days and expect discharge at that time if no new problems.
+Vitals:
+pain scale was 0 out of 10.
+zambrano, edward dob:04-02-2002
+pulse: 63 per min. pulse rhythm regular: yes respiration: 16 breaths per min. bp systolic: 113 mm hg. bp diastolic: 68 mmhg.
+Orders:
+None
+Radiology Ordered:
+None
+E&M_Time_Factor:
+None

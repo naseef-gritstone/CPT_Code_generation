@@ -1,0 +1,69 @@
+Aguirre, Servando DOB:11-15-1983
+agile
+OCCUPATIONAL MEDICINE
+15401 S Main St. Gardena, CA 90248 - 2214 PH: 424 292-3260 FAX: 424 292-3266
+TELEMEDICINE FOLLOW UP VISIT PROGRESS NOTE
+Patient First Name:
+Patient Last Name:
+Date of Birth:
+Sex:
+Servando
+Aguirre
+11-15-1983
+Male
+Attending Provider:
+Referring Provider:
+Visit Date:
+Chart No .:
+Minh Nguyen, DO, MPH, FACOEM
+09-19-2023
+SCL49764
+Insurance:
+Employer:
+Claim Number:
+Date of Injury:
+Intercare Holdings Ins Serv. Inc.
+Monterey County Probation Dept
+23-168076
+07-27-2023
+Appointment Location:
+Appointment Location Address:
+Agile Occupational Medicine, Gardena
+15401 S Main St., Gardena CA 90248 - 2214
+Telehealth Statement: I advised the patient that this visit will be performed using a HIPAA compliant telehealth tool, including a live video connection between the patient's location and my location. I answered all the patient's questions, and the patient gave his/her consent for telehealth visit. Subsequently, I performed consultation using telehealth and live video conference. I performed a virtual musculoskeletal or neurological examination based on specific set of guidelines to enhance the information obtained when evaluating the musculoskeletal and neurological systems. Most of these tests are based on validated physical exam maneuvers under my observation. REFERENCE: Mayo Clinic: The Telemedicine Musculoskeletal Examination https:\\www.mayoclinicproceedings.org/article/S0025-6196(20)30542-5/fulltext. Neurology: Primer on the In-home Teleneurologic Examination. Clinical Practice April 2021 vol. 11 no. 2 https:\\cp.neurology.org/content/11/2/e157.full.
+History of Present Illness Patient is a 39 year old male.
+Patient following up for a non-displaced fracture of the middle phalanx of LIF. No pain at this time. Fracture since 7/27/23 (7 weeks since injury). Patient doing modified work. Patient works as a probation officer at a school supervising juveniles. Not taking any medications for the pain. Patient using finger splint but has been using his left hand.
+Past Medical History No Known Past Medical History
+Surgical History No Known Surgical History
+Allergy No Known Drug Allergies.
+Aguirre, Servando DOB:11-15-1983
+Current Medication No Known Current Medication
+Social History
+Work History: He is employed - full time. He has been in the current profession for months. Prior occupation: Probation department. Use of Drugs/Alcohol/Tobacco: Never drinks any alcohol. Smoking Status (MU) never smoker. Reports consuming caffeine/caffeinated drinks few times per week. He has never used any illicit drugs. He denies using street drugs with a needle.
+Physical Examination
+HAND EXAM A. LATERALITY: Left B. VISUAL INSPECTION: No gross deformity, no swelling, no ecchymosis, or any open wounds.
+C. PALPATION: No tenderness to palpation.
+D. ACTIVE RANGE OF MOTION: DIGITS 2-5
+MCP FLEXION 0 to 90 degrees MCP EXTENSION 0 degrees MCP ABDUCTION 0 to 25 degrees MCP ADDUCTION 0 to 20 degrees PIP FLEXION 0 to 100 degrees PIP EXTENSION 0 degrees DIP FLEXION 0 to 70 degrees DIP EXTENSION 0 degrees THUMB
+MCP FLEXION 0 to 60 degrees MCP EXTENSION 0 degrees MCP ABDUCTION 0 to 50 degrees MCP ADDUCTION 0 to 8 centimeters IP FLEXION 0 to 80 degrees
+IP EXTENSION 0 degrees
+E. NEUROVASCULAR: 5/5 motor strength, no sensory deficit to light touch, and brisk capillary refill less than 2 seconds throughout the hand.
+F. SPECIALTY TESTS: Negative Tinel's and Phalen's signs.
+G. CONTRALATERAL SIDE: Exam is normal.
+Radiology Ordered Order No: RAD0004321 X-ray: Hand, Left - 3 views
+Dated: 09-19-2023 Rad: InHouse Radiology
+Radiology Reviewed:
+Class
+Test Name
+Test Result
+X-ray
+Hand, Left - 3 views
+Aguirre, Servando DOB:11-15-1983
+Assessment and Plan ICD: Closed nondisplaced fracture of middle phalanx of left middle finger with routine healing, subsequent encounter (S62.653D) Assessment: Patient with LIF fracture and well healed at 7 weeks with FROM and strength. Plan: Full duty trial and expect discharge at next visit if no new problems. Discontinue splint.
+CPT Codes: Office O/p Est Low 20-29 Min (99213) Digital XR of left hand, three or more views (73130) WC002 (WC002)
+Follow up: -
+Minh Nguyen DO, MPH, FACOEM Lil QPpm
+This has been electronically signed by Minh Nguyen DO, MPH, FACOEM for visit dated 09-19-2023. Clinic Address: 15401 S Main St., Gardena CA 90248 - 2214
+Lil QNom
+Minh Nguyen DO, MPH, FACOEM Rendering Provider
+This has been electronically signed by Minh Nguyen DO, MPH, FACOEM for visit dated 09-19-2023.

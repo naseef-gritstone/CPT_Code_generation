@@ -1,0 +1,69 @@
+Gabino, Yazmina DOB:01-24-1999
+agile
+OCCUPATIONAL MEDICINE
+1710 Churn Creek Rd. Redding, CA 96002 - 0236 PH: 530 646-4242 FAX: 530 255-4934
+TELEMEDICINE FOLLOW UP VISIT PROGRESS NOTE
+Patient First Name:
+Patient Last Name:
+Date of Birth:
+Sex:
+Yazmina
+Gabino
+01-24-1999
+Female
+Attending Provider:
+Referring Provider:
+Visit Date:
+Chart No .:
+Frederic Butler, MD, MPH
+09-19-2023
+SCL39798
+Insurance:
+Employer:
+Claim Number:
+Date of Injury:
+Gallagher Bassett
+COMPASS,LLC1
+002515030221WC01
+04-29-2023
+Appointment Location:
+Appointment Location Address:
+Agile Occupational Medicine, Redding
+1710 Churn Creek Rd., Redding CA 96002 - 0236
+Telehealth Statement: I advised the patient that this visit will be performed using a HIPAA compliant telehealth tool, including a live video connection between the patient's location and my location. I answered all the patient's questions, and the patient gave his/her consent for telehealth visit. Subsequently, I performed consultation using telehealth and live video conference. I performed a virtual musculoskeletal or neurological examination based on specific set of guidelines to enhance the information obtained when evaluating the musculoskeletal and neurological systems. Most of these tests are based on validated physical exam maneuvers under my observation. REFERENCE: Mayo Clinic: The Telemedicine Musculoskeletal Examination https:\\www.mayoclinicproceedings.org/article/S0025-6196(20)30542-5/fulltext. Neurology: Primer on the In-home Teleneurologic Examination. Clinical Practice April 2021 vol. 11 no. 2 https:\\cp.neurology.org/content/11/2/e157.full.
+History of Present Illness Patient is a 24 year old female.
+Ms. Gabino injured her neck reportedly trying to lift a resident 3 times to pull her into a car. She was evaluated by Dr Drew and determined to have severe cervicalgia. A request for EMG/NCS is pending authorization. A MRI was ordered reportedly with no response. Patient is reportedly being sent to a AME for further evaluation. Pain in neck radiates to the left shoulder.
+Past Medical History No Known Past Medical History
+Surgical History Tonsillectomy : 2021.
+Allergy Penicillin Hives, lethargic .
+Gabino, Yazmina DOB:01-24-1999
+Current Medication Skelaxin 800 mg tablet 1 Three Times A Day prn spasms
+Social History
+Work History: She is employed - full time. She has been in the current profession for months. Use of Drugs/Alcohol/Tobacco: Drinks alcohol rarely. Reports drinking Wine. Does not drink caffeinated beverages. She has never used any illicit drugs. She denies using street drugs with a needle.
+Physical Examination
+Constitutional: Well developed, well nourished, and well kempt. In no apparent distress. Head: Normocephalic and atraumatic
+Eyes: Sclera is clear. Extraocular eye movement is grossly intact. Ears: Ears are symmetrical. No redness or swelling of external ears is appreciated.
+Nose: No excessive nasal discharge is appreciated. Neck: Supple with full ROM.
+Resp: Breathing is non-labored. Abdomen: Non-distended.
+Neurological: Alert and oriented. CN II-XII grossly intact. Motor and sensation grossly normal and non-focal. Musculoskeletal: Mobility is age appropriate. EROM grossly intact with 5/5 motor gross motor strength in four extremities.
+Skin: Appropriate color for ethnicity. Psych: Calm, cooperative, answering questions appropriately, and pleasant.
+Assessment and Plan ICD: Cervicalgia (M54.2)
+Assessment: Patient continues to experience significant pain in her neck and difficulry sleeping. Recent visit to local ER where she was prescribed hydroxyzine which allowed her to sleep.
+Plan: Hydroxyzine 10 mg at bedtime Await authorization for requested EMG/NCs AME evaluation is pending per patient Currently TTD
+ICD: Strain of right trapezius muscle (S46.811A)
+Assessment: Severe cervicalgia and upper back pain getting worse; now effecting the L UE with shooting pains, numbness and tingling, with occasional weakness; R shoulder pain continues; limited ADLs d/t pain; avg pain is 7/10; R UE radicular symptoms are getting worse; almost constantly numb, dropping things and now mild swelling the hand; continues to have mild mid to low back pain as well; pt has tried and failed several muscle relaxers including Flexeril, Baclofen, Norflex, Robaxin and Zanaflex; Skelaxin does help with sleep and a little pain without known SE; moist heat, stretches, NSAIDs help a little; multiple requests for a STAT MRI C-spine and PT have been ignored; QME pending soon
+Plan: Request a NCS/EMG B UE Refill Skelaxin, #30 x 1 refill QME pending Continue moist heat, ice, rest No modified duty available F/u in about 3-4 weeks, sooner if needed
+ICD: Cervical radiculopathy, acute (M54.12)
+ICD: Strain of shoulder, left (S46.912A)
+Gabino, Yazmina DOB:01-24-1999
+CPT Codes:
+Office O/p Est Mod 30-39 Min (99214)
+Prescription hydroxyzine HCI 10 mg tablet 1 At Bedtime for 20 Days , Prescribe 20 Tablet
+Follow up: -
+-
+Frederic Butler MD, MPH
+Fol Burken
+This has been electronically signed by Frederic Butler MD, MPH for visit dated 09-19-2023. Clinic Address: 1710 Churn Creek Rd., Redding CA 96002 - 0236
+Fal Burken
+Frederic Butler MD, MPH Rendering Provider
+This has been electronically signed by Frederic Butler MD, MPH for visit dated 09-19-2023.
