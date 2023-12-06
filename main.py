@@ -1,13 +1,9 @@
 import streamlit as st
 import base64
-import tempfile
-import os
 from utils.patinet_blocks_extractions import patient_detail_extraction
 from utils.llm_calling import get_the_llm_response_for_mdm
 from utils.llm_for_cpt_code import detect_cpt_codes_
-import os
 import pandas as pd
-import re
  
 
 # Step 1: Read the Excel file into a pandas DataFrame

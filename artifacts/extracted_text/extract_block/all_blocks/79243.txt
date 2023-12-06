@@ -1,12 +1,9 @@
 History of Present Illness:
-
 patient is a 52 year old male.
 patient reports back pain has decreased. currently attending physical therapy with home exercise program taught. recent consult with dr o'sullivan who recommended nsaids. there is no reported saddle anesthesia, loss of bowel or bladder control. there is no new intervening trauma. injury is 9 months old.
-
 AssessmentAndPlan:
- lbp with l piriformis syndrome. recent consult with dr o'sullivan on 9/11/23 with recommendation made to take nsaid plan: patient with 9 month old back injury.
+lbp with l piriformis syndrome. recent consult with dr o'sullivan on 9/11/23 with recommendation made to take nsaid plan: patient with 9 month old back injury.
 reinforce home exercise program from physical therapy to improve pain, rom and function rtc 1 month
-
 Vitals:
 None
 Orders:

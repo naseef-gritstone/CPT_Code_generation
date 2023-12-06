@@ -13,7 +13,8 @@ import ast
 import re
 
 
-client = openai.api_key = "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"
+client = openai.api_key = "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"
+
 
 # summary_query_prompt  = """give the exact  CPT codes as array for the below patient details"""
 
@@ -65,7 +66,6 @@ def detect_cpt_codes_(file_path, model, temperature):
                 result_list = ast.literal_eval(match.group(0))
                 if isinstance(result_list, list):
                     # result_list = [item.strip() for item in result_list]
-                    print(result_list)
                     return result_list, response_llm
                 else:
                     print(

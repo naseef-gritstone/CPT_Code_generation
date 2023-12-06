@@ -3,12 +3,12 @@ from openai import OpenAI
 from llama_index.llms import OpenAI
 from llama_index.response_synthesizers import get_response_synthesizer
 from utils.llm_utils.custom_rag import RAGStringQueryEngine, qa_prompt
-
-
-
 import openai
+import os
+
+
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 def get_the_llm_response_for_mdm(txt_path):
     # Load documents and build index
     documents = SimpleDirectoryReader(input_files=[txt_path]).load_data()
